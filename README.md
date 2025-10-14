@@ -1,4 +1,7 @@
 # Project Powerhouse
+
+[![GitHub Pages](https://img.shields.io/github/deployments/vilo-flo/demo-customer-portal/github-pages?label=GitHub%20Pages)](https://vilo-flo.github.io/demo-customer-portal)
+
 ## Background
 Project Powerhouse is a Sandbox Project created by the [Vilosia team](https://www.tdd-agent.vilosia.com/) as part of the [ATDD Course](https://atdd-accelerator.optivem.com/) by [Valentina Jemuović](https://www.linkedin.com/in/valentinajemuovic).
 
