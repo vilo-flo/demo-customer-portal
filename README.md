@@ -14,6 +14,6 @@ Goal of the project is to demonstrate how the [Vilosia TDD Agent](https://www.td
 https://vilo-flo.github.io/demo-customer-portal/
 
 ## Project Boards
-https://github.com/users/vilo-flo/projects/1/views/1
+https://github.com/users/vilo-flo/projects/2
 
 License: MIT License
